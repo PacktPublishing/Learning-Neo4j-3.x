@@ -1,8 +1,3 @@
-## $5 Tech Unlocked 2021!
-[Buy and download this Book for only $5 on PacktPub.com](https://www.packtpub.com/product/learning-neo4j-3-x-second-edition/9781786466143)
------
-*If you have read this book, please leave a review on [Amazon.com](https://www.amazon.com/gp/product/1786466147).     Potential readers can then use your unbiased opinion to help them make purchase decisions. Thank you. The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
-
 # Learning Neo4j 3.x
 This is the code repository for [Learning Neo4j 3.x [Video]](https://www.packtpub.com/application-development/learning-neo4j-3x-video), published by [Packt](https://www.packtpub.com/?utm_source=github). It contains all the supporting project files necessary to work through the video course from start to finish.
 ## About the Video Course
