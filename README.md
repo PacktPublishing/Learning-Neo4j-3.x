@@ -33,3 +33,7 @@ This course is for developers and aspiring data scientists who are new to graph 
 
 * [Node.js Design Patterns [Video]](https://www.packtpub.com/web-development/nodejs-design-patterns-video)
 * [Practical DevOps Security [Video]](https://www.packtpub.com/virtualization-and-cloud/practical-devops-security-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781786466143">https://packt.link/free-ebook/9781786466143 </a> </p>
